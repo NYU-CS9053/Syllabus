@@ -1,0 +1,9 @@
+*.iml
+*.ipr
+*.iws
+target/
+*~
+.DS_Store/
+.DS_Store
+gen/
+out/
