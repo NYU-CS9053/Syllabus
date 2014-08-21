@@ -8,7 +8,7 @@ Brian Langel
 
 | email | phone | office | hours |
 | :---: | :---: | ------ | ----- |
-| brian@dash.by | (712) 266 3255 | | |
+| bl1815@nyu.edu | (712) 266 3255 | | |
 
 ### Course Description
 * An introduction to the Java programming language. See [Lectures](#lectures) for topics covered.
