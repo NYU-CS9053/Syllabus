@@ -8,7 +8,7 @@ Brian Langel
 
 | email | phone | office | hours |
 | :---: | :---: | ------ | ----- |
-| bl1815@nyu.edu | (712) 266 3255 | | |
+| bl1815@nyu.edu | (712) 266 3255 | Jacob's 674 <br/>(the classroom) | 5 - 6 pm Tuesdays <br/>(one hour prior to lecture) |
 
 ### Course Description
 * An introduction to the Java programming language. See [Lectures](#lectures) for topics covered.
@@ -44,21 +44,22 @@ Tentative schedule
 
 | Lecture | Date | Topic | Reading (chapters) |
 | :-----: | :--: | ----- | ------------------ |
-| 1 | 9/3 | Introduction / Basics | 1 & 2 |
-| 2 | 9/10 | Procedural Java | 3 |
-| 3 | 9/17 | Objects | 4 |
-| 4 | 9/24 | Inheritance | 5 |
-| 5 | 10/1 | Interfaces / Nested & Inner Classes | 6 |
-| 6 | 10/8 | __Midterm 1__ (see [Exams](#exams)) <br/> Exceptions / Debugging / Annotations & Regular Expressions | 11 & [supplemental]() |
-| 7 | 10/15 | Generics | 12 |
-| 8 | 10/22 | Collections | 13 |
-| 9 | 10/29 | __Midterm 2__ (see [Exams](#exams)) | |
-| 10 | 11/5 | Concurrency | 14 & Goetz |
-| 11 | 11/12 | Concurrency | 14 |
-| 12 | 11/19 | IO/NIO | |  
-| 13 | 11/26 | Libraries (Guava / Jackson) / Testing (Junit / Mockito) / IDEs | |
-| 14 | 12/3 | TBD (Serialization / Reflection / GUI / Android / Patterns (Builder, Dependency Injection, etc) | |
-| 15 | 12/10 | __Final__ (see [Exams](#exams)) | |
+| 1 | 9/2 | Introduction / Basics | 1 & 2 |
+| 2 | 9/9 | Procedural Java | 3 |
+| 3 | 9/16 | Objects | 4 |
+| 4 | 9/23 | Inheritance | 5 |
+| 5 | 9/30 | Interfaces / Nested & Inner Classes | 6 |
+| 6 | 10/7 | Exceptions / Debugging / Annotations & Regular Expressions | 11 & [supplemental]() |
+| - | 10/14 | Fall Break | - | - |
+| 7 | 10/21 | Generics | 12 |
+| 8 | 10/28 | __Midterm__ (see [Exams](#exams)) | - |
+| 9 | 11/4 | Collections | 13 |
+| 10 | 11/11 | Concurrency | 14 & Goetz |
+| 11 | 11/18 | Concurrency | 14 |
+| 12 | 11/25 | IO/NIO | |  
+| 13 | 12/2 | Libraries (Guava / Jackson) / Testing (Junit / Mockito) / IDEs | |
+| 14 | 12/9 | TBD (Serialization / Reflection / GUI / Android / Patterns (Builder, Dependency Injection, etc) | |
+| - | 12/16 | __Final__ (see [Exams](#exams)) | - |
 
 ### Participation
 
@@ -80,7 +81,7 @@ Upon getting access you must [Fork](https://help.github.com/articles/fork-a-repo
 
 ### Homework
 
-There will be __10__ homework assignments.  Each assignment will be posted at the end of lecture and will be due at __5 pm__ the day of the following lecture.
+There will be __11__ homework assignments.  I will throw out the lowest score. This allows for some cushion in case you are unavailable to work on an assignment, are late, get a bad grade or for whatever reason do not finish an assignment.
 
 Homework assignments will be posted immediately after lecture. They will be due at __5pm__ the day of the next lecture (in general, consult the [Grading Schedule](#grading) for any changes)
 
@@ -90,17 +91,18 @@ The process for viewing and submitting homework assignments is:
 * The final commit which I'll review for grading will be the latest commit __before 5pm__ the day of the following lecture (i.e., you'll have about one week to complete the assignment)
 * Only __after 5pm__ you should push your changes to your forked repository (`git push`) and then issue a [Pull Request](https://help.github.com/articles/using-pull-requests) for your completed work thus making it available for grading.
 
+__Late submissions are treated as 0__ Submitting an assignment late will not be tolerated in any circumstance. If this happens you can use this as your grade which will not be counted.  
+
 __Important__ If any part of this process does not make sense please let me know __ASAP (as soon as possible)__ via e-mail or in the first lecture.
 
 See [Grading](#grading) for dates and overall grade percentage.
 
 ### Exams
 
-There will be __3__ exams in total.  
-
-* __Midterm 1__ - this is a take home exam. 
-* __Midterm 2__ - this is an in-class exam. It will be longer then the first midterm and will be written (no computer usage).
-* __Final__ - this is an in-class exam. It will be slightly longer than the second midterm and will also be written (no computer usage).
+There will be __2__ exams in total.  
+ 
+* __Midterm__ - this is an in-class exam. It will be written (no computer usage).
+* __Final__ - this is an in-class exam. It will be slightly longer than the midterm and will also be written (no computer usage).
 
 See [Grading](#grading) for dates and overall grade percentage.
 
@@ -108,19 +110,21 @@ See [Grading](#grading) for dates and overall grade percentage.
 
 | Activity | Date Due | Overall Grade Percentage |
 | :------- | :------: | :----------------------: |
-| Homework 1 | 9/10 @ 5 pm | 5% |
-| Homework 2 | 9/17 @ 5 pm | 5% |
-| Homework 3 | 9/24 @ 5 pm | 5% |
-| Homework 4 | 10/1 @ 5 pm | 5% |
-| Midterm 1 (take home) | 10/8 @ 5 pm | 10% |
-| Homework 5 | 10/15 @ 5 pm | 5% |
-| Homework 6 | 10/22 @ 5 pm | 5% |
-| Midterm 2 | 10/29 | 15% |
-| Homework 7 | 11/5 @ 5 pm | 5% |
-| Homework 8 | 11/12 @ 5 pm | 5% |
-| Homework 9 | 11/19 @ 5 pm | 5% |
-| Homework 10 | 11/26 @ 5 pm | 5% |
-| Final | 12/10 | 25% |
+| Homework 1 | 9/9 @ 5 pm | 5% |
+| Homework 2 | 9/16 @ 5 pm | 5% |
+| Homework 3 | 9/23 @ 5 pm | 5% |
+| Homework 4 | 9/30 @ 5 pm | 5% |
+| Homework 5 | 10/7 @ 5 pm | 5% |
+| Homework 6 | 10/21 @ 5 pm | 5% |
+| Midterm | 10/28 | 20% |
+| Homework 7 | 11/4 @ 5 pm | 5% |
+| Homework 8 | 11/11 @ 5 pm | 5% |
+| Homework 9 | 11/18 @ 5 pm | 5% |
+| Homework 10 | 11/25 @ 5 pm | 5% |
+| Homework 11 | 12/2 @ 5 pm | 5% |
+| Final | 12/16 | 30% |
+
+The lowest scoring homework assignment will not be counted.
 
 ####Tips for Homework
 * Your code must compile and be tested to work. If it does not compile/work it is better to leave a comment explaining as much of what you've done to try to remedy as you may receive partial credit.
@@ -133,6 +137,9 @@ See [Grading](#grading) for dates and overall grade percentage.
 
 ### Cheating / Copying Code
 Any form of cheating or using others' code will not be tolerated. All work must be original. If two students hand in essentially the same code then __both__ students will receive __0__ for that assignment and also for another assignment (their highest scoring) and may also face further disciplinary action from NYU.     
+
+### Office Hours
+If you want to meet me prior to class please email me so that I can ensure I'm available promptly at 5pm. If you do not email me in advance I may be late getting to office hours. Additionally, if the office hours' time does not work for you I will make myself available via Google Hangout (video call).  Just send me an email and we can coordinate a time that will work for both of us.
 
 ### Supplemental Reading
 
