@@ -8,7 +8,7 @@ Brian Langel
 
 | email | phone | office | hours |
 | :---: | :---: | ------ | ----- |
-| bl1815@nyu.edu | (712) 266 3255 | Jacob's 674 <br/>(the classroom) | 5 - 6 pm Tuesdays <br/>(one hour prior to lecture) |
+| bl1815@nyu.edu | (712) 266 3255 | Jacob's 674 <br/>(the classroom) | 5 - 6 pm Wednesdays <br/>(one hour prior to lecture) |
 
 ### Course Description
 * An introduction to the Java programming language. See [Lectures](#lectures) for topics covered.
@@ -44,22 +44,22 @@ Tentative schedule
 
 | Lecture | Date | Topic | Reading (chapters) |
 | :-----: | :--: | ----- | ------------------ |
-| 1 | 9/2 | Introduction / Basics | 1 & 2 |
-| 2 | 9/9 | Procedural Java | 3 |
-| 3 | 9/16 | Objects | 4 |
-| 4 | 9/23 | Inheritance | 5 |
-| 5 | 9/30 | Interfaces / Nested & Inner Classes | 6 |
-| 6 | 10/7 | Exceptions / Debugging / Annotations & Regular Expressions | 11 & [supplemental]() |
-| - | 10/14 | Fall Break | - | - |
-| 7 | 10/21 | Generics | 12 |
-| 8 | 10/28 | __Midterm__ (see [Exams](#exams)) | - |
-| 9 | 11/4 | Collections | 13 |
-| 10 | 11/11 | Concurrency | 14 & Goetz |
-| 11 | 11/18 | Concurrency | 14 |
-| 12 | 11/25 | IO/NIO | |  
-| 13 | 12/2 | Libraries (Guava / Jackson) / Testing (Junit / Mockito) / IDEs | |
-| 14 | 12/9 | TBD (Serialization / Reflection / GUI / Android / Patterns (Builder, Dependency Injection, etc) | |
-| - | 12/16 | __Final__ (see [Exams](#exams)) | - |
+| 1 | 1/28 | Introduction / Basics | 1 & 2 |
+| 2 | 2/4 | Procedural Java | 3 |
+| 3 | 2/11 | Objects | 4 |
+| 4 | 2/18 | Inheritance | 5 |
+| 5 | 2/25 | Interfaces / Nested & Inner Classes | 6 |
+| 6 | 3/4 | Exceptions / Debugging / Annotations & Regular Expressions | 11 & [supplemental]() |
+| 7 | 3/11 | __Midterm__ (see [Exams](#exams)) | - |
+| - | 3/18 | Spring Break | - |
+| 8 | 3/25 | Generics | 12 |
+| 9 | 4/1 | Collections | 13 |
+| 10 | 4/8 | Concurrency | 14 & Goetz |
+| 11 | 4/15 | Concurrency | 14 |
+| 12 | 4/22 | IO/NIO | |
+| 13 | 4/29 | Libraries (Guava / Jackson) / Testing (Junit / Mockito) / IDEs | |
+| 14 | 5/6 | TBD (Serialization / Reflection / GUI / Patterns (Builder, Dependency Injection, etc) | |
+| - | 5/13 | __Final__ (see [Exams](#exams)) | - |
 
 ### Participation
 
@@ -67,15 +67,15 @@ Ask as many questions as you have. I would encourage you to ask the questions in
 
 ### GitHub Usage
 
-This class will use [GitHub](http://github.com) extensively. All lectures, homework assignments and discussion will happen on the class's [repository](https://github.com/NYU-CS9053/Fall-2014);
+This class will use [GitHub](http://github.com) extensively. All lectures, homework assignments and discussion will happen on the class's [repository](https://github.com/NYU-CS9053/Spring-2015);
 To read more about the benefits to this for you as a student, read [here](https://education.github.com/)
 
-You must notify me of your GitHub user id. As soon as you do, I will verify that you're enrolled in the class, and then give you access to the class's private [repository](https://github.com/NYU-CS9053/Fall-2014).  The repository is [Fall-2014](https://github.com/NYU-CS9053/Fall-2014). If you do not have access you will get a 404 message. This means either;
+You must notify me of your GitHub user id. As soon as you do, I will verify that you're enrolled in the class, and then give you access to the class's private [repository](https://github.com/NYU-CS9053/Spring-2015).  The repository is [Spring-2015](https://github.com/NYU-CS9053/Spring-2015). If you do not have access you will get a 404 message. This means either;
 * you haven't given me your GitHub user id
 * I have not yet added you
 * or you are not logged-in with that user id.
 
-Ensure you have access to this [repository](https://github.com/NYU-CS9053/Fall-2014) __ASAP (as soon as possible)__
+Ensure you have access to this [repository](https://github.com/NYU-CS9053/Spring-2015) __ASAP (as soon as possible)__
 
 Upon getting access you must [Fork](https://help.github.com/articles/fork-a-repo) the repository. This will give you write access to a copied version owned by your user. 
 
@@ -110,19 +110,19 @@ See [Grading](#grading) for dates and overall grade percentage.
 
 | Activity | Date Due | Overall Grade Percentage |
 | :------- | :------: | :----------------------: |
-| Homework 1 | 9/9 @ 5 pm | 5% |
-| Homework 2 | 9/16 @ 5 pm | 5% |
-| Homework 3 | 9/23 @ 5 pm | 5% |
-| Homework 4 | 9/30 @ 5 pm | 5% |
-| Homework 5 | 10/7 @ 5 pm | 5% |
-| Homework 6 | 10/21 @ 5 pm | 5% |
-| Midterm | 10/28 | 20% |
-| Homework 7 | 11/4 @ 5 pm | 5% |
-| Homework 8 | 11/11 @ 5 pm | 5% |
-| Homework 9 | 11/18 @ 5 pm | 5% |
-| Homework 10 | 11/25 @ 5 pm | 5% |
-| Homework 11 | 12/2 @ 5 pm | 5% |
-| Final | 12/16 | 30% |
+| Homework 1 | 2/4 @ 5 pm | 5% |
+| Homework 2 | 2/11 @ 5 pm | 5% |
+| Homework 3 | 2/18 @ 5 pm | 5% |
+| Homework 4 | 2/25 @ 5 pm | 5% |
+| Homework 5 | 3/4 @ 5 pm | 5% |
+| Midterm | 3/11 | 20% |
+| Homework 6 | 3/18 @ 5 pm | 5% |
+| Homework 7 | 3/25 @ 5 pm | 5% |
+| Homework 8 | 4/1 @ 5 pm | 5% |
+| Homework 9 | 4/8 @ 5 pm | 5% |
+| Homework 10 | 4/15 @ 5 pm | 5% |
+| Homework 11 | 4/22 @ 5 pm | 5% |
+| Final | 5/13 | 30% |
 
 The lowest scoring homework assignment will not be counted.
 
