@@ -8,7 +8,7 @@ Brian Langel
 
 | email | phone | office | hours |
 | :---: | :---: | ------ | ----- |
-| bl1815@nyu.edu | (712) 266 3255 | Jacob's 674 <br/>(the classroom) | 5 - 6 pm Wednesdays <br/>(one hour prior to lecture) |
+| bl1815@nyu.edu | (712) 266 3255 | Roger's 205 <br/>(the classroom) | 5 - 6 pm Wednesdays <br/>(one hour prior to lecture) |
 
 ### Course Description
 * An introduction to the Java programming language. See [Lectures](#lectures) for topics covered.
