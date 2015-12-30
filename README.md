@@ -8,7 +8,7 @@ Brian Langel
 
 | email | phone | office | hours |
 | :---: | :---: | ------ | ----- |
-| bl1815@nyu.edu | (712) 266 3255 | Roger's 205 <br/>(the classroom) | 5 - 6 pm Wednesdays <br/>(one hour prior to lecture) |
+| blangel@nyu.edu | (712) 266 3255 | TBD <br/>(the classroom) | 5 - 6 pm Wednesdays <br/>(one hour prior to lecture) |
 
 ### Course Description
 * An introduction to the Java programming language. See [Lectures](#lectures) for topics covered.
@@ -44,22 +44,22 @@ Tentative schedule
 
 | Lecture | Date | Topic | Reading (chapters) |
 | :-----: | :--: | ----- | ------------------ |
-| 1 | 1/28 | Introduction / Basics | 1 & 2 |
-| 2 | 2/4 | Procedural Java | 3 |
-| 3 | 2/11 | Objects | 4 |
-| 4 | 2/18 | Inheritance | 5 |
-| 5 | 2/25 | Interfaces / Nested & Inner Classes | 6 |
-| 6 | 3/4 | Exceptions / Debugging / Annotations & Regular Expressions | 11 & [supplemental]() |
-| 7 | 3/11 | __Midterm__ (see [Exams](#exams)) | - |
-| - | 3/18 | Spring Break | - |
-| 8 | 3/25 | Generics | 12 |
-| 9 | 4/1 | Collections | 13 |
-| 10 | 4/8 | Concurrency | 14 & Goetz |
-| 11 | 4/15 | Concurrency | 14 |
-| 12 | 4/22 | IO/NIO | |
-| 13 | 4/29 | Libraries (Guava / Jackson) / Testing (Junit / Mockito) / IDEs | |
-| 14 | 5/6 | TBD (Serialization / Reflection / GUI / Patterns (Builder, Dependency Injection, etc) | |
-| - | 5/13 | __Final__ (see [Exams](#exams)) | - |
+| 1 | 1/27 | Introduction / Basics | 1 & 2 |
+| 2 | 2/3 | Procedural Java | 3 |
+| 3 | 2/10 | Objects | 4 |
+| 4 | 2/17 | Inheritance | 5 |
+| 5 | 2/24 | Interfaces / Nested & Inner Classes | 6 |
+| 6 | 3/2 | Exceptions / Debugging / Annotations & Regular Expressions | 11 & [supplemental]() |
+| 7 | 3/9 | __Midterm__ (see [Exams](#exams)) | - |
+| - | 3/16 | Spring Break | - |
+| 8 | 3/23 | Generics | 12 |
+| 9 | 3/30 | Collections | 13 |
+| 10 | 4/6 | Concurrency | 14 & Goetz |
+| 11 | 4/13 | Concurrency | 14 |
+| 12 | 4/20 | IO/NIO | |
+| 13 | 4/27 | Libraries (Guava / Jackson) / Testing (Junit / Mockito) / IDEs | |
+| 14 | 5/4 | TBD (Serialization / Reflection / GUI / Patterns (Builder, Dependency Injection, etc) | |
+| - | 5/11 | __Final__ (see [Exams](#exams)) | - |
 
 ### Participation
 
@@ -67,15 +67,15 @@ Ask as many questions as you have. I would encourage you to ask the questions in
 
 ### GitHub Usage
 
-This class will use [GitHub](http://github.com) extensively. All lectures, homework assignments and discussion will happen on the class's [repository](https://github.com/NYU-CS9053/Spring-2015);
+This class will use [GitHub](http://github.com) extensively. All lectures, homework assignments and discussion will happen on the class's [repository](https://github.com/NYU-CS9053/Spring-2016);
 To read more about the benefits to this for you as a student, read [here](https://education.github.com/)
 
-You must notify me of your GitHub user id. As soon as you do, I will verify that you're enrolled in the class, and then give you access to the class's private [repository](https://github.com/NYU-CS9053/Spring-2015).  The repository is [Spring-2015](https://github.com/NYU-CS9053/Spring-2015). If you do not have access you will get a 404 message. This means either;
+You must notify me of your GitHub user id. As soon as you do, I will verify that you're enrolled in the class, and then give you access to the class's private [repository](https://github.com/NYU-CS9053/Spring-2016).  The repository is [Spring-2016](https://github.com/NYU-CS9053/Spring-2016). If you do not have access you will get a 404 message. This means either;
 * you haven't given me your GitHub user id
 * I have not yet added you
 * or you are not logged-in with that user id.
 
-Ensure you have access to this [repository](https://github.com/NYU-CS9053/Spring-2015) __ASAP (as soon as possible)__
+Ensure you have access to this [repository](https://github.com/NYU-CS9053/Spring-2016) __ASAP (as soon as possible)__
 
 Upon getting access you must [Fork](https://help.github.com/articles/fork-a-repo) the repository. This will give you write access to a copied version owned by your user. 
 
@@ -90,8 +90,9 @@ The process for viewing and submitting homework assignments is:
 * You will work on your assignment and commit locally
 * The final commit which I'll review for grading will be the latest commit __before 5pm__ the day of the following lecture (i.e., you'll have about one week to complete the assignment)
 * Only __after 5pm__ you should push your changes to your forked repository (`git push`) and then issue a [Pull Request](https://help.github.com/articles/using-pull-requests) for your completed work thus making it available for grading.
+* Note, the pull request __must be submitted within 24 hours__ of the due date.
 
-__Late submissions are treated as 0__ Submitting an assignment late will not be tolerated in any circumstance. If this happens you can use this as your grade which will not be counted.  
+__Late submissions are treated as 0__ Submitting an assignment late will not be tolerated in any circumstance. This includes issuing a pull request after the 24 hour deadline of last commit.  If this happens you can use this as your grade which will not be counted.  
 
 __Important__ If any part of this process does not make sense please let me know __ASAP (as soon as possible)__ via e-mail or in the first lecture.
 
@@ -110,19 +111,19 @@ See [Grading](#grading) for dates and overall grade percentage.
 
 | Activity | Date Due | Overall Grade Percentage |
 | :------- | :------: | :----------------------: |
-| Homework 1 | 2/4 @ 5 pm | 5% |
-| Homework 2 | 2/11 @ 5 pm | 5% |
-| Homework 3 | 2/18 @ 5 pm | 5% |
-| Homework 4 | 2/25 @ 5 pm | 5% |
-| Homework 5 | 3/4 @ 5 pm | 5% |
-| Midterm | 3/11 | 20% |
-| Homework 6 | 3/18 @ 5 pm | 5% |
-| Homework 7 | 3/25 @ 5 pm | 5% |
-| Homework 8 | 4/1 @ 5 pm | 5% |
-| Homework 9 | 4/8 @ 5 pm | 5% |
-| Homework 10 | 4/15 @ 5 pm | 5% |
-| Homework 11 | 4/22 @ 5 pm | 5% |
-| Final | 5/13 | 30% |
+| Homework 1 | 2/3 @ 5 pm | 5% |
+| Homework 2 | 2/10 @ 5 pm | 5% |
+| Homework 3 | 2/17 @ 5 pm | 5% |
+| Homework 4 | 2/24 @ 5 pm | 5% |
+| Homework 5 | 3/2 @ 5 pm | 5% |
+| Midterm | 3/9 | 20% |
+| Homework 6 | 3/23 @ 5 pm | 5% |
+| Homework 7 | 3/30 @ 5 pm | 5% |
+| Homework 8 | 4/6 @ 5 pm | 5% |
+| Homework 9 | 4/13 @ 5 pm | 5% |
+| Homework 10 | 4/20 @ 5 pm | 5% |
+| Homework 11 | 4/27 @ 5 pm | 5% |
+| Final | 5/11 | 30% |
 
 The lowest scoring homework assignment will not be counted.
 
