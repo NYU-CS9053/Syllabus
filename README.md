@@ -81,6 +81,8 @@ Upon getting access you must [Fork](https://help.github.com/articles/fork-a-repo
 
 I have created a help/cheat-sheet for using Git/GitHub in this class. You can always find it [here](git.commands).
 
+Note, homework you complete and push to GitHub must not be copied elsewhere online. The homework are copy-righted material for this class. I will revoke access if you do this. 
+
 ### Homework
 
 There will be __11__ homework assignments.  I will throw out the lowest score. This allows for some cushion in case you are unavailable to work on an assignment, are late, get a bad grade or for whatever reason do not finish an assignment.
