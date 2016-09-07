@@ -145,10 +145,10 @@ The lowest scoring homework assignment will not be counted.
 * Use descriptive names for variables, methods & classes.
 
 ### Cheating / Copying Code
-Any form of cheating or using others' code will not be tolerated. All work must be original. If two students hand in essentially the same code then __both__ students will receive __0__ for that assignment and also for another assignment (their highest scoring) and may also face further disciplinary action from NYU.     
+Any form of cheating or using others' code will not be tolerated. All work must be original. If two students hand in essentially the same code then __both__ students will receive __0__ for that assignment and also for another assignment (their highest scoring) and may also face further disciplinary action from NYU, as they will be reported to the authorities, including the CSE department’s student records, as described in the University’s Student Code. Furthermore, the School of Engineering encourages academic excellence in an environment that promotes honesty, integrity and fairness.  Any act of academic dishonesty is seen as an attack upon the School and will not be tolerated. Please see the school's policy on academic dishonesty [here](http://engineering.nyu.edu/academics/code-of-conduct/).
 
-### Learning Needs
-If you have any special learning needs please alert me as soon as possible. We will coordinate as per NYU policy and reach out to [Judith Simonsen](mailto:js6244@nyu.edu)
+### Learning Needs / Moses Center Statement of Disability
+If you are student with a disability who is requesting accommodations, please contact New York University’s Moses Center for Students with Disabilities (CSD) at 212-998-4980 or mosescsd@nyu.edu. You must be registered with CSD to receive accommodations. Information about the Moses Center can be found [here](http://www.nyu.edu/students/communities-and-groups/students-with-disabilities.html). The Moses Center is located at 726 Broadway on the 2nd and 3rd floors.
 
 ### Office Hours
 If you want to meet me prior to class please email me so that I can ensure I'm available. If you do not email me in advance I may be early enough prior to lecture to have a meaningful conversation. Additionally, if meeting prior to lecture does not work for you I will make myself available via Google Hangout (video call).  Just send me an email and we can coordinate a time that will work for both of us.
