@@ -40,7 +40,6 @@ The goal of this course is to teach you a pragmatic understanding of the Java pr
     - In addition to studying and programming with a language, it is extremely important to read others' code in that language when learning it. There are common paradigms and principals that others have developed over time by virtual of working within the confines of the Java language. You can learn these patterns by reading others' code.  Github is an amazing resource for this.
 
 ### Lectures
-Tentative schedule - *Note* two lectures will take place on Thursdays because of scheduling conflicts for me. If this does not work with your schedule let me know and I'll provide makeup lectures for those which have conflicts.
 
 | Lecture | Date | Topic | Reading (chapters) |
 | :-----: | :--: | ----- | ------------------ |
