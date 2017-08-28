@@ -1,4 +1,4 @@
-# NYU CS9053 - Spring 2017
+# NYU CS9053 - Fall 2017
 
 ## Introduction to Java
 
@@ -8,7 +8,7 @@ Brian Langel
 
 | email | phone | office | hours |
 | :---: | :---: | ------ | ----- |
-| blangel@nyu.edu | (712) 266 3255 | TBD <br/>(the classroom) | by appointment <br/>(I'll generally be available prior to lecture) |
+| blangel@nyu.edu | (712) 266 3255 | RH 721 <br/>(the classroom) | by appointment <br/>(I'll generally be available prior to lecture) |
 
 ### Course Description
 * An introduction to the Java programming language. See [Lectures](#lectures) for topics covered.
@@ -43,44 +43,42 @@ The goal of this course is to teach you a pragmatic understanding of the Java pr
 
 | Lecture | Date | Topic | Reading (chapters) |
 | :-----: | :--: | ----- | ------------------ |
-| 1 | 1/25 | Introduction / Basics | 1 & 2 & 13.1 |
-| 2 | 2/1 | Procedural Java | 3 |
-| 3 | 2/8 | Objects | 4 |
-| 4 | 2/15 | Inheritance | 5 (*not 5.3 or 5.7*) |
-| 5 | 2/22 | Interfaces / Nested & Inner Classes | 6 (*not 6.3 or 6.5*) |
-| 6 | 3/1 | Exceptions / Debugging / Annotations & Regular Expressions | 7 & [supplemental] |
-| - | 3/8 | __Midterm__ (see [Exams](#exams)) | - |
-| - | 3/15 | Spring Break | - |
-| 7 | 3/22 | Generics | 8 (*not 8.9*) |
-| 8 | 3/29 | Collections | 9 & 5.3 |
-| 9 | 4/5 | Concurrency | 14 & Goetz (*not 14.11*) |
-| 10 | 4/12 | Concurrency | 14 & Goetz (*not 14.11*) |
-| 11 | 4/19 | IO/NIO | [supplemental] |
-| 12 | 4/26 | Functional Java (Lambdas / Streams / etc) | 6.3 & [supplemental] |
-| 13 | 5/3 | Libraries (Guava / Jackson) / Testing (Junit / Mockito) / IDEs / Patterns (Builder, Dependency Injection, etc) | |
-| - | 5/10 | __Final__ (see [Exams](#exams)) | - |
+| 1 | 9/6 | Introduction / Basics | 1 & 2 & 13.1 |
+| 2 | 9/13 | Procedural Java | 3 |
+| 3 | 9/20 | Objects | 4 |
+| 4 | 9/27 | Inheritance | 5 (*not 5.3 or 5.7*) |
+| 5 | 10/4 | Interfaces / Nested & Inner Classes | 6 (*not 6.3 or 6.5*) |
+| 6 | 10/11 | Exceptions / Debugging / Annotations & Regular Expressions | 7 & [supplemental] |
+| - | 10/18 | __Midterm__ (see [Exams](#exams)) | - |
+| 7 | 10/25 | Generics | 8 (*not 8.9*) |
+| 8 | 11/1 | Collections | 9 & 5.3 |
+| 9 | 11/8 | Concurrency | 14 & Goetz (*not 14.11*) |
+| 10 | 11/15 | Concurrency | 14 & Goetz (*not 14.11*) |
+| - | 11/22 | Thanksgiving Break | - |
+| 11 | 11/29 | IO/NIO | [supplemental] |
+| 12 | 12/6 | Functional Java (Lambdas / Streams / etc) | 6.3 & [supplemental] |
+| 13 | 12/13 | Libraries (Guava / Jackson) / Testing (Junit / Mockito) / IDEs / Patterns (Builder, Dependency Injection, etc) | |
+| - | 12/20 | __Final__ (see [Exams](#exams)) | - |
 
 ### Participation
 
-Ask as many questions as you have. I would encourage you to ask the questions in class by raising your hand. However, I understand that you may not feel comfortable asking in front of a large group and so would prefer to ask your question anonymously. To facilitate as many questions in-class as possible, each lecture I will be opening a stream on [streme.co](http://streme.co/) to allow anyone to ask questions anonymously. I will have the stream running throughout lecture and will answer questions as they are asked. I will post the unique stream URL for the lecture at the start of the lecture.
+Ask as many questions as you have. I would encourage you to ask the questions in class by raising your hand. However, I understand that you may not feel comfortable asking in front of a large group and so would prefer to ask your question anonymously. To facilitate as many questions in-class as possible, each lecture I will be opening a channel on [tlk.io](https://tlk.io) to allow anyone to ask questions anonymously. I will have the channel running throughout lecture and will answer questions as they are asked. The channel will be the same for each lecture; it is [nyucs9053-fall2017](https://tlk.io/nyucs9053-fall2017).
 
 ### GitHub Usage
 
-This class will use [GitHub](http://github.com) extensively. All lectures, homework assignments and discussion will happen on the class's [repository](https://github.com/NYU-CS9053/Spring-2017);
-To read more about the benefits to this for you as a student, read [here](https://education.github.com/)
+This class will use [GitHub](http://github.com) extensively. All lectures, homework assignments and discussion will happen on the GitHub [classroom](https://classroom.github.com/classrooms/8402142-nyu-cs9053-fall-2017);
+To read more about the benefits to this for you as a student, read [here](https://education.github.com/) and [here](https://classroom.github.com)
 
-You must notify me of your GitHub user id. As soon as you do, I will verify that you're enrolled in the class, and then give you access to the class's private [repository](https://github.com/NYU-CS9053/Spring-2017).  The repository is [Spring-2017](https://github.com/NYU-CS9053/Spring-2017). If you do not have access you will get a 404 message. This means either;
+You must notify me of your GitHub user id. As soon as you do, I will verify that you're enrolled in the class, and then give you access to the class's [classroom](https://classroom.github.com/classrooms/8402142-nyu-cs9053-fall-2017).  The classroom is [8402142-nyu-cs9053-fall-2017](https://classroom.github.com/classrooms/8402142-nyu-cs9053-fall-2017). If you do not have access you will get a 404 message or be prompted to login. This means either;
 * you haven't given me your GitHub user id
 * I have not yet added you
 * or you are not logged-in with that user id.
 
-Ensure you have access to this [repository](https://github.com/NYU-CS9053/Spring-2017) __ASAP (as soon as possible)__
-
-Upon getting access you must [Fork](https://help.github.com/articles/fork-a-repo) the repository. This will give you write access to a copied version owned by your user. 
+Ensure you have access to this [classroom](https://classroom.github.com/classrooms/8402142-nyu-cs9053-fall-2017) __ASAP (as soon as possible)__
 
 I have created a help/cheat-sheet for using Git/GitHub in this class. You can always find it [here](git.commands).
 
-Note, homework you complete and push to GitHub must not be copied elsewhere online. The homework are copy-righted material for this class. I will revoke access if you do this. 
+Note, homework you complete and push to GitHub must not be copied elsewhere online. The homework are copy-righted material for this class. I will revoke access if you do this and submit you to NYU for code of conduct violation.
 
 ### Homework
 
@@ -92,14 +90,9 @@ The process for viewing and submitting homework assignments is:
 * I will make the assignment available immediately after the lecture
 * You will work on your assignment and commit locally
 * The final commit which I'll review for grading will be the latest commit __before 5pm__ the day of the following lecture (i.e., you'll have about one week to complete the assignment)
-* Only __after 5pm__ you should push your changes to your forked repository (`git push`) and then issue a [Pull Request](https://help.github.com/articles/using-pull-requests) for your completed work thus making it available for grading.
-* Note, the pull request __must be submitted within 2 hours__ of the due date.
+* You must push your local commits to your online repository prior 6 hours after the __5pm__ deadline (so that I can review them).
 
-__Late submissions are treated as 0__ Submitting an assignment late will not be tolerated in any circumstance. This includes committing after 5pm on the due date and issuing a pull request after the 2 hour deadline of last commit.  If this happens you can use this as your grade which will not be counted.  
-
-__Early Pull Requests are treated as 0__ as well.  Submitting a pull request __before 5pm__ is not allowed (as other students can review your submission).  If this happens you can use this as your grade which will not be counted.
-
-__Review__ To encourage code review, mastery of the material and to discourage cheating, each week some students will be selected at random (code to do the random choosing can be reviewed [here](randomizer/)).  Some of the students will review some other of the students homework and explain to me what the code is doing, any mistakes they see and also any well done portions of the code.
+__Late submissions are treated as 0__ Submitting an assignment late will not be tolerated in any circumstance. This includes pushing code after the 6 hour deadline of last commit.  If this happens you can use this as your grade which will not be counted.  Note, commits after _5pm_ will not be reviewed but those prior will be.
 
 __Important__ If any part of this process does not make sense please let me know __ASAP (as soon as possible)__ via e-mail or in the first lecture.
 
@@ -118,26 +111,26 @@ See [Grading](#grading) for dates and overall grade percentage.
 
 | Activity | Date Due | Overall Grade Percentage |
 | :------- | :------: | :----------------------: |
-| Homework 1 | 2/1 @ 5 pm | 5% |
-| Homework 2 | 2/8 @ 5 pm | 5% |
-| Homework 3 | 2/15 @ 5 pm | 5% |
-| Homework 4 | 2/22 @ 5 pm | 5% |
-| Homework 5 | 3/1 @ 5 pm | 5% |
-| Midterm | 3/8 | 20% |
-| Homework 6 | 3/22 @ 5 pm | 5% |
-| Homework 7 | 3/29 @ 5 pm | 5% |
-| Homework 8 | 4/5 @ 5 pm | 5% |
-| Homework 9 | 4/12 @ 5 pm | 5% |
-| Homework 10 | 4/19 @ 5 pm | 5% |
-| Homework 11 | 4/26 @ 5 pm | 5% |
-| Final | 5/10 | 30% |
+| Homework 1 | 9/13 @ 5 pm | 5% |
+| Homework 2 | 9/20 @ 5 pm | 5% |
+| Homework 3 | 9/27 @ 5 pm | 5% |
+| Homework 4 | 10/4 @ 5 pm | 5% |
+| Homework 5 | 10/11 @ 5 pm | 5% |
+| Midterm | 10/18 | 20% |
+| Homework 6 | 10/25 @ 5 pm | 5% |
+| Homework 7 | 11/1 @ 5 pm | 5% |
+| Homework 8 | 11/8 @ 5 pm | 5% |
+| Homework 9 | 11/15 @ 5 pm | 5% |
+| Homework 10 | 11/29 @ 5 pm | 5% |
+| Homework 11 | 12/6 @ 5 pm | 5% |
+| Final | 12/20 | 30% |
 
 The lowest scoring homework assignment will not be counted.
 
 ####Tips for Homework
 * Your code must compile and be tested to work. If it does not compile/work it is better to leave a comment explaining as much of what you've done to try to remedy as you may receive partial credit.
 * Comment your code. Be descriptive yet succinct.
-* Follow as closely as possible the [Sun Code Conventions](http://www.oracle.com/technetwork/java/javase/documentation/codeconvtoc-136057.html). Mainly:
+* Follow as closely as possible the [Java Code Conventions](http://www.oracle.com/technetwork/java/javase/documentation/codeconvtoc-136057.html). Mainly:
     - Class names begin with an upper case character
     - Constants (`static final`) variables are all upper case.
     - Methods and variable names should be camel-case (i.e., begin with a lower case and then use an upper case character to distinguish second and subsequent words; e.g., `processRecords`)
@@ -145,6 +138,24 @@ The lowest scoring homework assignment will not be counted.
 
 ### Cheating / Copying Code
 Any form of cheating or using others' code will not be tolerated. All work must be original. If two students hand in essentially the same code then __both__ students will receive __0__ for that assignment and also for another assignment (their highest scoring) and may also face further disciplinary action from NYU, as they will be reported to the authorities, including the CSE department’s student records, as described in the University’s Student Code. Furthermore, the School of Engineering encourages academic excellence in an environment that promotes honesty, integrity and fairness.  Any act of academic dishonesty is seen as an attack upon the School and will not be tolerated. Please see the school's policy on academic dishonesty [here](http://engineering.nyu.edu/academics/code-of-conduct/).
+
+### Homework Grading Policy
+
+Every homework will be evaluated under the following policy:
+
+* Style (1 - 5) - 10%
+    - This is related to how your name classes, variables and how well you follow the [Java Code Conventions](http://www.oracle.com/technetwork/java/javase/documentation/codeconvtoc-136057.html)
+* Immutability (0 or 1, times 5) - 10%
+    - This is whether you program with immutable data.  If all data is immutable you get a 5 if one or more portions of your code uses mutable data you get a 0 for this portion of the grade.
+* Repeating Past Mistakes (0 or 1, times 5) - 10%
+    - This is whether or not you fix past mistakes going forward.  E.g. if you used mutable data in the past homework and I commented about this and you continue to use mutable data you will get a 0 for this portion of the grade.
+* Git Usage (0 or 1, times 5) - 10%
+    - This is whether you properly use Git/GitHub.  You should not have merge conflicts submitted in your homework.  You should not submit `.class` files or IDE files.
+    - NOTE, this is separate from submitting code on time.  Only code prior to _5pm_ of the deadline will be reviewed and if you do not push your code for review within _6hr_ of the deadline you will get a 0 for the entire homework.
+* Organization (1 - 5) - 20%
+    - This is how well you organize your code.  Is it readable and maintainable?
+* Correctness (1 - 5) - 40%
+    - This is whether your code fulfills the specifications of the homework.  E.g. does it compile? Does it work?  Does it pass test cases if present? Etc.
 
 ### Learning Needs / Moses Center Statement of Disability
 If you are student with a disability who is requesting accommodations, please contact New York University’s Moses Center for Students with Disabilities (CSD) at 212-998-4980 or mosescsd@nyu.edu. You must be registered with CSD to receive accommodations. Information about the Moses Center can be found [here](http://www.nyu.edu/students/communities-and-groups/students-with-disabilities.html). The Moses Center is located at 726 Broadway on the 2nd and 3rd floors.
