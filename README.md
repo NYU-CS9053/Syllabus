@@ -8,7 +8,7 @@ Brian Langel
 
 | email | phone | office | hours |
 | :---: | :---: | ------ | ----- |
-| blangel@nyu.edu | (712) 266 3255 | RH 721 <br/>(the classroom) | by appointment <br/>(I'll generally be available prior to lecture) |
+| blangel@nyu.edu | (712) 266 3255 | RH 707 <br/>(the classroom) | by appointment <br/>(I'll generally be available prior to lecture) |
 
 ### Course Description
 * An introduction to the Java programming language. See [Lectures](#lectures) for topics covered.
@@ -66,15 +66,15 @@ Ask as many questions as you have. I would encourage you to ask the questions in
 
 ### GitHub Usage
 
-This class will use [GitHub](http://github.com) extensively. All lectures, homework assignments and discussion will happen on the GitHub [classroom](https://classroom.github.com/classrooms/8402142-nyu-cs9053-fall-2017) and class [repository](https://github.com/NYU-CS9053/Fall-2017);
+This class will use [GitHub](http://github.com) extensively. All lectures, links to homework assignments and discussion will happen on the GitHub class [repository](https://github.com/NYU-CS9053/Fall-2017);
 To read more about the benefits to this for you as a student, read [here](https://education.github.com/) and [here](https://classroom.github.com)
 
-You must notify me of your GitHub user id. As soon as you do, I will verify that you're enrolled in the class, and then give you access to the class's [classroom](https://classroom.github.com/classrooms/8402142-nyu-cs9053-fall-2017) and [repository](https://github.com/NYU-CS9053/Fall-2017).  The classroom is [8402142-nyu-cs9053-fall-2017](https://classroom.github.com/classrooms/8402142-nyu-cs9053-fall-2017) and the repository is [https://github.com/NYU-CS9053/Fall-2017](https://github.com/NYU-CS9053/Fall-2017). If you do not have access you will get a 404 message or be prompted to login. This means either;
+You must notify me of your GitHub user id. As soon as you do, I will verify that you're enrolled in the class, and then give you access to the class's [repository](https://github.com/NYU-CS9053/Fall-2017).  The repository is [https://github.com/NYU-CS9053/Fall-2017](https://github.com/NYU-CS9053/Fall-2017). If you do not have access you will get a 404 message or be prompted to login. This means either;
 * you haven't given me your GitHub user id
 * I have not yet added you
 * or you are not logged-in with that user id.
 
-Ensure you have access to this [classroom](https://classroom.github.com/classrooms/8402142-nyu-cs9053-fall-2017) and this [repository](https://github.com/NYU-CS9053/Fall-2017) __ASAP (as soon as possible)__
+Ensure you have access to this [repository](https://github.com/NYU-CS9053/Fall-2017) __ASAP (as soon as possible)__
 
 I have created a help/cheat-sheet for using Git/GitHub in this class. You can always find it [here](git.commands).
 
@@ -88,11 +88,12 @@ Homework assignments will be posted immediately after lecture. They will be due 
 
 The process for viewing and submitting homework assignments is:
 * I will make the assignment available immediately after the lecture
-* You will work on your assignment and commit locally
+* You will accept the link to the homework (posted in `homework/weekXX` where `XX` is the assignment number)
+* You will clone the homework repo and work locally
 * The final commit which I'll review for grading will be the latest commit __before 5pm__ the day of the following lecture (i.e., you'll have about one week to complete the assignment)
-* You must push your local commits to your online repository prior 6 hours after the __5pm__ deadline (so that I can review them).
+* You must push your local commits to your online repository and []open a pull request](https://help.github.com/articles/about-pull-requests/) prior to 6 hours after the __5pm__ deadline (so that I can review them).
 
-__Late submissions are treated as 0__ Submitting an assignment late will not be tolerated in any circumstance. This includes pushing code after the 6 hour deadline of last commit.  If this happens you can use this as your grade which will not be counted.  Note, commits after _5pm_ will not be reviewed but those prior will be.
+__Late submissions are treated as 0__ Submitting an assignment late will not be tolerated in any circumstance. This includes pushing code after the 6 hour deadline of last commit or not opening a pull request.  If this happens you can use this as your grade which will not be counted.  Note, commits after _5pm_ will not be reviewed but those prior will be.
 
 __Important__ If any part of this process does not make sense please let me know __ASAP (as soon as possible)__ via e-mail or in the first lecture.
 
@@ -127,7 +128,7 @@ See [Grading](#grading) for dates and overall grade percentage.
 
 The lowest scoring homework assignment will not be counted.
 
-####Tips for Homework
+#### Tips for Homework
 * Your code must compile and be tested to work. If it does not compile/work it is better to leave a comment explaining as much of what you've done to try to remedy as you may receive partial credit.
 * Comment your code. Be descriptive yet succinct.
 * Follow as closely as possible the [Java Code Conventions](http://www.oracle.com/technetwork/java/javase/documentation/codeconvtoc-136057.html). Mainly:
