@@ -91,9 +91,9 @@ The process for viewing and submitting homework assignments is:
 * You will accept the link to the homework (posted in `homework/weekXX` where `XX` is the assignment number)
 * You will clone the homework repo and work locally
 * The final commit which I'll review for grading will be the latest commit __before 5pm__ the day of the following lecture (i.e., you'll have about one week to complete the assignment)
-* You must push your local commits to your online repository and []open a pull request](https://help.github.com/articles/about-pull-requests/) prior to 6 hours after the __5pm__ deadline (so that I can review them).
+* You must push your local commits to your online repository prior to 6 hours after the __5pm__ deadline (so that I can review them).
 
-__Late submissions are treated as 0__ Submitting an assignment late will not be tolerated in any circumstance. This includes pushing code after the 6 hour deadline of last commit or not opening a pull request.  If this happens you can use this as your grade which will not be counted.  Note, commits after _5pm_ will not be reviewed but those prior will be.
+__Late submissions are treated as 0__ Submitting an assignment late will not be tolerated in any circumstance. This includes pushing code after the 6 hour deadline of last commit.  If this happens you can use this as your grade which will not be counted.  Note, commits after _5pm_ will not be reviewed but those prior will be.
 
 __Important__ If any part of this process does not make sense please let me know __ASAP (as soon as possible)__ via e-mail or in the first lecture.
 
