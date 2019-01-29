@@ -85,18 +85,18 @@ Note, homework you complete and push to GitHub must not be copied elsewhere onli
 
 There will be __11__ homework assignments.  I will throw out the lowest score. This allows for some cushion in case you are unavailable to work on an assignment, are late, get a bad grade or for whatever reason do not finish an assignment.
 
-Homework assignments will be posted immediately after lecture. They will be due at __5pm__ the day of the next lecture (in general, consult the [Grading Schedule](#grading) for any changes)
+Homework assignments will be posted immediately after lecture. They will be due at __3pm__ the day of the next lecture (in general, consult the [Grading Schedule](#grading) for any changes)
 
 The process for viewing and submitting homework assignments is:
 * I will make the assignment available immediately after the lecture
 * You will accept the link to the homework (posted in `homework/weekXX` where `XX` is the assignment number)
 * You will clone the homework repo and work locally
-* You must make all commits __before 5pm__ of the due date (i.e., the day of the following lecture, you'll have about one week to complete the assignment)
-* You must email me the final commit id __before 5pm__ of the due date (run `git rev-parse HEAD` to get this id)
-* The TA and I will review the commit you emailed me (provided it was emailed prior to 5pm of the due date) and any previous commits you made.
+* You must make all commits __before 3pm__ of the due date (i.e., the day of the following lecture, you'll have about one week to complete the assignment)
+* You must email me the final commit id __before 3pm__ of the due date (run `git rev-parse HEAD` to get this id)
+* The TA and I will review the commit you emailed me (provided it was emailed prior to 3pm of the due date) and any previous commits you made.
 * You must then push your local commits to your online repository, otherwise I will not be able to see them and consequently grade them.  This must be done within 24 hours of the due date.
 
-__Late submissions are treated as 0__ Submitting an assignment late will not be tolerated in any circumstance. This includes any commit performed after 5pm of the due date or any commit performed before 5pm but after the latest commit id you emailed me prior to 5pm of the due date.
+__Late submissions are treated as 0__ Submitting an assignment late will not be tolerated in any circumstance. This includes any commit performed after 3pm of the due date or any commit performed before 3pm but after the latest commit id you emailed me prior to 3pm of the due date.
 
 __Important__ If any part of this process does not make sense please let me know __ASAP (as soon as possible)__ via e-mail or in the first lecture.
 
@@ -115,18 +115,18 @@ See [Grading](#grading) for dates and overall grade percentage.
 
 | Activity | Date Due | Overall Grade Percentage |
 | :------- | :------: | :----------------------: |
-| Homework 1 | 2/5 @ 5 pm | 5% |
-| Homework 2 | 2/12 @ 5 pm | 5% |
-| Homework 3 | 2/19 @ 5 pm | 5% |
-| Homework 4 | 2/26 @ 5 pm | 5% |
-| Homework 5 | 3/5 @ 5 pm | 5% |
-| Homework 6 | 3/12 @ 5 pm | 5% |
+| Homework 1 | 2/5 @ 3 pm | 5% |
+| Homework 2 | 2/12 @ 3 pm | 5% |
+| Homework 3 | 2/19 @ 3 pm | 5% |
+| Homework 4 | 2/26 @ 3 pm | 5% |
+| Homework 5 | 3/5 @ 3 pm | 5% |
+| Homework 6 | 3/12 @ 3 pm | 5% |
 | Midterm | 3/26 | 20% |
-| Homework 7 | 4/2 @ 5 pm | 5% |
-| Homework 8 | 4/9 @ 5 pm | 5% |
-| Homework 9 | 4/16 @ 5 pm | 5% |
-| Homework 10 | 4/23 @ 5 pm | 5% |
-| Homework 11 | 4/30 @ 5 pm | 5% |
+| Homework 7 | 4/2 @ 3 pm | 5% |
+| Homework 8 | 4/9 @ 3 pm | 5% |
+| Homework 9 | 4/16 @ 3 pm | 5% |
+| Homework 10 | 4/23 @ 3 pm | 5% |
+| Homework 11 | 4/30 @ 3 pm | 5% |
 | Final | 5/14 | 30% |
 
 The lowest scoring homework assignment will not be counted.
