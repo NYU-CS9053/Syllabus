@@ -1,4 +1,4 @@
-# NYU CS9053 - Spring 2019
+# NYU CS9053 - Fall 2019 - Section I - 3:20 - 5:50 pm
 
 ## Introduction to Java
 
@@ -8,7 +8,7 @@ Brian Langel
 
 | email | phone | office | hours |
 | :---: | :---: | ------ | ----- |
-| blangel@nyu.edu | (712) 266 3255 | 370 Jay St, RM 202<br/>(the classroom) | by appointment <br/>(I'll generally be available after lectures) |
+| blangel@nyu.edu | (712) 266 3255 | 2MTC 9009<br/>(the classroom) | by appointment <br/>(I'll generally be available after lectures) |
 
 ### Course Description
 * An introduction to the Java programming language. See [Lectures](#lectures) for topics covered.
@@ -46,38 +46,38 @@ The goal of this course is to teach you a pragmatic understanding of the Java pr
 
 | Lecture | Date | Topic | Reading (chapters) |
 | :-----: | :--: | :-----: | :------------------: |
-| 1 | 1/29 | Introduction / Basics | 1 & 2 & 13.1 |
-| 2 | 2/5 | Procedural Java | 3 |
-| 3 | 2/12 | Objects | 4 |
-| 4 | 2/19 | Inheritance | 5 (*not 5.3 or 5.7*) |
-| 5 | 2/26 | Interfaces / Nested & Inner Classes | 6 (*not 6.3 or 6.5*) |
-| 6 | 3/5 | Exceptions / Debugging / Annotations & Regular Expressions | 7 & [supplemental] |
-| 7 | 3/12 | Generics | 8 (*not 8.9*) |
-| - | 3/19 | Spring Break | - |
-| - | 3/26 | __Midterm__ (see [Exams](#exams)) | - |
-| 8 | 4/2 | Collections | 9 & 5.3 |
-| 9 | 4/9 | Concurrency | 14 & Goetz (*not 14.11*) |
-| 10 | 4/16 | Concurrency | 14 & Goetz (*not 14.11*) |
-| 11 | 4/23 | IO/NIO | [supplemental] |
-| 12 | 4/30 | Functional Java (Lambdas / Streams / etc) | 6.3 & [supplemental] |
-| 13 | 5/7 | Libraries (Guava / Jackson) / Testing (Junit / Mockito) / IDEs / Patterns (Builder, Dependency Injection, etc) | |
-| - | 5/14 | __Final__ (see [Exams](#exams)) | - |
+| 1 | 9/3 | Introduction / Basics | 1 & 2 & 13.1 |
+| 2 | 9/10 | Procedural Java | 3 |
+| 3 | 9/17 | Objects | 4 |
+| 4 | 9/24 | Inheritance | 5 (*not 5.3 or 5.7*) |
+| 5 | 10/1 | Interfaces / Nested & Inner Classes | 6 (*not 6.3 or 6.5*) |
+| 6 | 10/8 | Exceptions / Debugging / Annotations & Regular Expressions | 7 & [supplemental] |
+| - | 10/15 | Fall Break | - |
+| - | 10/22 | __Midterm__ (see [Exams](#exams)) | - |
+| 7 | 10/29 | Generics | 8 (*not 8.9*) |
+| 8 | 11/5 | Collections | 9 & 5.3 |
+| 9 | 11/12 | Concurrency | 14 & Goetz (*not 14.11*) |
+| 10 | 11/19 | Concurrency | 14 & Goetz (*not 14.11*) |
+| 11 | 11/26 | IO/NIO | [supplemental] |
+| 12 | 12/3 | Functional Java (Lambdas / Streams / etc) | 6.3 & [supplemental] |
+| 13 | 12/10 | Libraries (Guava / Jackson) / Testing (Junit / Mockito) / IDEs / Patterns (Builder, Dependency Injection, etc) | |
+| - | 12/17 | __Final__ (see [Exams](#exams)) | - |
 
 ### Participation
 
-Ask as many questions as you have. I would encourage you to ask the questions in class by raising your hand. However, I understand that you may not feel comfortable asking in front of a large group and so would prefer to ask your question anonymously. To facilitate as many questions in-class as possible, each lecture I will be opening a channel on [tlk.io](https://tlk.io) to allow anyone to ask questions anonymously. I will have the channel running throughout lecture and will answer questions as they are asked. The channel will be the same for each lecture; it is [nyucs9053-spring2019](https://tlk.io/nyucs9053-spring2019).
+Ask as many questions as you have. I would encourage you to ask the questions in class by raising your hand. However, I understand that you may not feel comfortable asking in front of a large group and so would prefer to ask your question anonymously. To facilitate as many questions in-class as possible, each lecture I will be opening a channel on [tlk.io](https://tlk.io) to allow anyone to ask questions anonymously. I will have the channel running throughout lecture and will answer questions as they are asked. The channel will be the same for each lecture; it is [nyucs9053-fall2019i](https://tlk.io/nyucs9053-fall2019i).
 
 ### GitHub Usage
 
-This class will use [GitHub](http://github.com) extensively. All lectures, links to homework assignments and discussion will happen on the GitHub class [repository](https://github.com/NYU-CS9053/Spring-2019);
+This class will use [GitHub](http://github.com) extensively. All lectures, links to homework assignments and discussion will happen on the GitHub class [repository](https://github.com/NYU-CS9053/Fall-2019-I);
 To read more about the benefits to this for you as a student, read [here](https://education.github.com/) and [here](https://classroom.github.com)
 
-You must notify me of your GitHub user id. As soon as you do, I will verify that you're enrolled in the class, and then give you access to the class's [repository](https://github.com/NYU-CS9053/Spring-2019).  The repository is [https://github.com/NYU-CS9053/Spring-2019](https://github.com/NYU-CS9053/Spring-2019). If you do not have access you will get a 404 message or be prompted to login. This means either;
+You must notify me of your GitHub user id and which section you are in (this is Section I). As soon as you do, I will verify that you're enrolled in the class, and then give you access to the class's [repository](https://github.com/NYU-CS9053/Fall-2019-I).  The repository is [https://github.com/NYU-CS9053/Fall-2019-I](https://github.com/NYU-CS9053/Fall-2019-I). If you do not have access you will get a 404 message or be prompted to login. This means either;
 * you haven't given me your GitHub user id
 * I have not yet added you
 * or you are not logged-in with that user id.
 
-Ensure you have access to this [repository](https://github.com/NYU-CS9053/Spring-2019) __ASAP (as soon as possible)__
+Ensure you have access to this [repository](https://github.com/NYU-CS9053/Fall-2019-I) __ASAP (as soon as possible)__
 
 Note, homework you complete and push to GitHub must not be copied elsewhere online. The homework are copy-righted material for this class. I will revoke access if you do this and submit you to NYU for code of conduct violation.
 
@@ -115,19 +115,19 @@ See [Grading](#grading) for dates and overall grade percentage.
 
 | Activity | Date Due | Overall Grade Percentage |
 | :------- | :------: | :----------------------: |
-| Homework 1 | 2/5 @ 3 pm | 5% |
-| Homework 2 | 2/12 @ 3 pm | 5% |
-| Homework 3 | 2/19 @ 3 pm | 5% |
-| Homework 4 | 2/26 @ 3 pm | 5% |
-| Homework 5 | 3/5 @ 3 pm | 5% |
-| Homework 6 | 3/12 @ 3 pm | 5% |
-| Midterm | 3/26 | 20% |
-| Homework 7 | 4/2 @ 3 pm | 5% |
-| Homework 8 | 4/9 @ 3 pm | 5% |
-| Homework 9 | 4/16 @ 3 pm | 5% |
-| Homework 10 | 4/23 @ 3 pm | 5% |
-| Homework 11 | 4/30 @ 3 pm | 5% |
-| Final | 5/14 | 30% |
+| Homework 1 | 9/10 @ 3 pm | 5% |
+| Homework 2 | 9/17 @ 3 pm | 5% |
+| Homework 3 | 9/24 @ 3 pm | 5% |
+| Homework 4 | 10/1 @ 3 pm | 5% |
+| Homework 5 | 10/8 @ 3 pm | 5% |
+| Midterm | 10/22 | 20% |
+| Homework 6 | 10/29 @ 3 pm | 5% |
+| Homework 7 | 11/5 @ 3 pm | 5% |
+| Homework 8 | 11/12 @ 3 pm | 5% |
+| Homework 9 | 11/19 @ 3 pm | 5% |
+| Homework 10 | 11/26 @ 3 pm | 5% |
+| Homework 11 | 12/3 @ 3 pm | 5% |
+| Final | 12/17 | 30% |
 
 The lowest scoring homework assignment will not be counted.
 
