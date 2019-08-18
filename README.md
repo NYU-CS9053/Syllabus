@@ -92,11 +92,11 @@ The process for viewing and submitting homework assignments is:
 * You will accept the link to the homework (posted in `homework/weekXX` where `XX` is the assignment number)
 * You will clone the homework repo and work locally
 * You must make all commits __before 3pm__ of the due date (i.e., the day of the following lecture, you'll have about one week to complete the assignment)
-* You must email me the final commit id __before 3pm__ of the due date (run `git rev-parse HEAD` to get this id)
-* The TA and I will review the commit you emailed me (provided it was emailed prior to 3pm of the due date) and any previous commits you made.
+* You must put the final commit id __before 3pm__ of the due date (run `git rev-parse HEAD` to get this id) into the shared [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1vsSoPormYxks1kmM4J5DfQY0ZSN9kJPfhCSO4wKMVqI/edit?usp=sharing)
+* The TA and I will review the commit you placed in the Google Spreadsheet (provided it was done prior to 3pm of the due date) and any previous commits you made.
 * You must then push your local commits to your online repository, otherwise I will not be able to see them and consequently grade them.  This must be done within 24 hours of the due date.
 
-__Late submissions are treated as 0__ Submitting an assignment late will not be tolerated in any circumstance. This includes any commit performed after 3pm of the due date or any commit performed before 3pm but after the latest commit id you emailed me prior to 3pm of the due date.
+__Late submissions are treated as 0__ Submitting an assignment late will not be tolerated in any circumstance. This includes any commit performed after 3pm of the due date or any commit performed before 3pm but after the latest commit id you placed in the Google Spreadsheet prior to 3pm of the due date.
 
 __Important__ If any part of this process does not make sense please let me know __ASAP (as soon as possible)__ via e-mail or in the first lecture.
 
@@ -155,7 +155,7 @@ Every homework will be evaluated under the following policy:
     - This is whether or not you fix past mistakes going forward.  E.g. if you used mutable data in the past homework and I commented about this and you continue to use mutable data you will get a 0 for this portion of the grade.
 * Git Usage (0 or 5) - 10%
     - This is whether you properly use Git/GitHub.  You should not have merge conflicts submitted in your homework.  You should not submit `.class` files or IDE files.
-    - NOTE, this is separate from submitting code on time.  Only code prior to _5pm_ of the deadline (with an emailed commit id) will be reviewed and if you do not push your code for review within _24hr_ of the deadline you will get a 0 for the entire homework.
+    - NOTE, this is separate from submitting code on time.  Only code prior to _3pm_ of the deadline (with a commit id in the Google Spreadsheet) will be reviewed and if you do not push your code for review within _24hr_ of the deadline you will get a 0 for the entire homework.
 * Organization (1 - 5) - 20%
     - This is how well you organize your code.  Is it readable and maintainable?
 * Correctness (1 - 5) - 40%
