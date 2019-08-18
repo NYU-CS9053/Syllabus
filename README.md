@@ -72,10 +72,10 @@ Ask as many questions as you have. I would encourage you to ask the questions in
 This class will use [GitHub](http://github.com) extensively. All lectures, links to homework assignments and discussion will happen on the GitHub class [repository](https://github.com/NYU-CS9053/Fall-2019-I);
 To read more about the benefits to this for you as a student, read [here](https://education.github.com/) and [here](https://classroom.github.com)
 
-You must notify me of your GitHub user id and which section you are in (this is Section I). As soon as you do, I will verify that you're enrolled in the class, and then give you access to the class's [repository](https://github.com/NYU-CS9053/Fall-2019-I).  The repository is [https://github.com/NYU-CS9053/Fall-2019-I](https://github.com/NYU-CS9053/Fall-2019-I). If you do not have access you will get a 404 message or be prompted to login. This means either;
-* you haven't given me your GitHub user id
+You must notify me of your GitHub username and which section you are in (this is Section I). As soon as you do, I will verify that you're enrolled in the class, and then give you access to the class's [repository](https://github.com/NYU-CS9053/Fall-2019-I).  The repository is [https://github.com/NYU-CS9053/Fall-2019-I](https://github.com/NYU-CS9053/Fall-2019-I). If you do not have access you will get a 404 message or be prompted to login. This means either;
+* you haven't given me your GitHub username
 * I have not yet added you
-* or you are not logged-in with that user id.
+* or you are not logged-in with that username.
 
 Ensure you have access to this [repository](https://github.com/NYU-CS9053/Fall-2019-I) __ASAP (as soon as possible)__
 
